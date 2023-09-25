@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    background-color: #f4f4f4;
+    color: #555555
+    
+
+}
+h1{
+    color: black;
+}
+h2{
+color: #555555;
+}
+.box-1{
+    background-color: rgb(210, 200, 200);
+    color: rgb(8, 8, 8);
+}
+.box-2{
+    background-color: rgb(210, 200, 200);
+    color: rgb(8, 8, 8);
+}
+.box-3{
+    background-color: rgb(210, 200, 200);
+    color: rgb(8, 8, 8);
+}
+.box-4{
+    background-color: rgb(210, 200, 200);
+    color: rgb(8, 8, 8);
+}
+.box-5{
+    background-color: rgb(210, 200, 200);
+    color: rgb(8, 8, 8);
+}
